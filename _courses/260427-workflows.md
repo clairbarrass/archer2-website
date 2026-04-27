@@ -7,7 +7,7 @@ start_date: 2026-04-27 10:00:00
 end_date: 2026-04-28 12:00:00
 trainers: Rosa Filgueira (EPCC)
 course_type: course
-registration_status: open
+registration_status: closed
 registration_url:  https://safe.epcc.ed.ac.uk/TransitionServlet/TrainingCourse/260427-workflows
 location: Online
 location_url: 
@@ -84,20 +84,20 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
 					
 
 
-<!-- 		
+		
 <h2><a name="videos">Videos</a></h2>
 
 <h3>Session 1</h3>
 
 <div>
-	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe title="Video" width="560" height="315" src="https://www.youtube.com/embed/y4T351RGkcg " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- -->
 
 
 
-<!--
+
+
 
 
 <h2><a name="feedback">Feedback</a></h2>
@@ -108,7 +108,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
-           href="../../feedback/?course=260420-int-sw-dev" 
+           href="../../feedback/?course=260427-workflows" 
 
 		>
           <strong>Feedback</strong><br/>
@@ -118,7 +118,7 @@ They are also required to abide by the [ARCHER2  Code of Conduct](../../../about
     </div>
 		
 	
--->
+
  
 </section>
 
