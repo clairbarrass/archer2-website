@@ -142,7 +142,7 @@ The first two days will be theory + hands-on. The third day will be more hands-o
         <a class="ar2_linkbox ar2_linkbox-teal" 
 
 
-		   href="https://www.archer2.ac.uk/training/feedback/?course=260527-gpu-kernels"
+		   href="../../feedback/?course=260527-gpu-kernels"
 
 		>
           <strong>Feedback</strong><br/>
