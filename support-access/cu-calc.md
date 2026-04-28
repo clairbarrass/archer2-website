@@ -207,7 +207,7 @@ Please see the [Industry Engagement page](../community/industry/).
 
 <h4>ARCHER2 Emissions Rates</h4> 
 
-ARCHER2 estimated emissions. For estimation methodology [see ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide/energy/#archer2-emissions). Includes estimated Scope 3 emissions and assumes a 6-year service length. Scope 2 emissions are zero as ARCHER2 supplied by 100% renewable energy contract.
+ARCHER2 estimated emissions. For estimation methodology [see ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide/energy/#archer2-emissions). Includes estimated embodied (upstream scope 3) emissions and assumes a 6-year service length. Operational (scope 2 emissions) are zero as ARCHER2 supplied by 100% renewable energy contract.
 
 <table class="lined"> 
 <tbody> 
@@ -215,7 +215,7 @@ ARCHER2 estimated emissions. For estimation methodology [see ARCHER2 documentati
   <th class="value">kgCO<sub>2</sub>e/CU</th> 
 </tr> 
 <tr> 
-  <td id="archer2Emissions" class="value">0.023</td> 
+  <td id="archer2Emissions" class="value">0.014</td> 
 </tr> 
 </tbody> 
 </table> 
