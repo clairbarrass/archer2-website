@@ -12,7 +12,7 @@ registration_url:
 location: Online
 location_url:
 prace_course: false
-video: 
+video: true
 ecse:
 ---
 
@@ -76,7 +76,10 @@ In this talk, I will introduce how molecular simulations are used to study prote
 
 
 
+<section id="service">
 
+
+  <div class="row ">
 
 
 
@@ -89,17 +92,17 @@ In this talk, I will introduce how molecular simulations are used to study prote
         </a>
       </div>
 
-
+-->
 
       <div class="col-xs-6 col-sm-4">
         <a class="ar2_linkbox ar2_linkbox-green" href="courses/"
-           href="http://matt-graham.github.io/slides/jax-sci-comp/2025-12-17-jax-sci-comp.html">
+           href="ResearchTalk.pdf">
           <strong>Slides</strong><br/>
           View the presentation slides
         </a>
       </div>
 
--->
+  </div>
 
-
+</section>
 
